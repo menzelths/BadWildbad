@@ -1,0 +1,40 @@
+# Metadaten zu Unterrichtsmaterialien, Version 1.0, Stand 28.06.2017
+
+Hinweise:
+- Fächernamen bitte immer ausschreiben.
+- Falls unter einer Rubrik mehrere Einträge möglich sind, diese bitte durch Kommata trennen (z. B. bei Klasse: 5, 6, 7).
+- Im Bereich Technik, Schulart und Betriebssysteme nicht benötigte Einträge bitte löschen.
+
+#THEMA
+
+
+#FACH
+
+
+#KLASSE_JGS
+
+
+#SCHULART
+GYM, RS, GMS, 
+
+#BILDUNGSPLANBEZUG
+
+
+#ZEITUMFANG_MINUTEN
+
+
+#BETRIEBSSYSTEME
+
+iOS, Android, Windows, Browser
+
+#APPS
+
+
+#MATERIALIEN
+
+
+#TECHNIK
+Beamer, Audio, 1:N, 1:1, WLAN
+
+#TECHNIK_SONSTIGES
+
