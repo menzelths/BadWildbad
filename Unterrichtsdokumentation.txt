@@ -1,4 +1,4 @@
-# Metadaten zu Unterrichtsmaterialien, Version 1.0, Stand 28.06.2017
+﻿Metadaten zu Unterrichtsmaterialien, Version 1.0, Stand 28.06.2017
 
 Hinweise:
 - Fächernamen bitte immer ausschreiben.
@@ -15,7 +15,9 @@ Hinweise:
 
 
 #SCHULART
-GYM, RS, GMS, 
+GYM, RS, GMS
+
+#LEHRWERKE
 
 #BILDUNGSPLANBEZUG
 
@@ -24,7 +26,6 @@ GYM, RS, GMS,
 
 
 #BETRIEBSSYSTEME
-
 iOS, Android, Windows, Browser
 
 #APPS
@@ -38,3 +39,6 @@ Beamer, Audio, 1:N, 1:1, WLAN
 
 #TECHNIK_SONSTIGES
 
+
+#LIZENZ
+CommonCC
