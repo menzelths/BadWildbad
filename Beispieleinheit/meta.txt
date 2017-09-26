@@ -1,0 +1,40 @@
+﻿Metadaten zu Unterrichtsmaterialien, Version 1.01, Stand 19. September 2017
+
+
+#THEMA
+Beispiel für selbsterstelltes Unterrichtsmaterial
+
+#BESCHREIBUNG
+Hier steht, worum es in der Einheit geht. [http://menzelths.github.io Das wird als Link dargestellt].
+Hier noch etwas mehr Text in einer neuen Zeile
+
+#FACH
+Mathematik
+
+#KLASSE_JGS
+7,8
+
+#SCHULART
+GYM
+
+#BILDUNGSPLANBEZUG
+Logarithmus, Beispiele
+
+#ZEITUMFANG_MINUTEN
+60
+
+#BETRIEBSSYSTEME
+iOS, Android, Windows, Browser
+
+#APPS
+iOS:[https://itunes.apple.com/de/app/skitch-aufnehmen-markierung-senden/id490505997?mt=8 Skitch]
+
+#MATERIALIEN
+- [Beispiel_1.pdf So erscheint es später mal als Link]: Übungsaufgaben
+- Beispiel_2.pdf: Ein weiteres Beispiel
+- bilder/bild.png: Ein schönes Bild
+
+#TECHNIK
+Beamer, 1:1, WLAN
+
+#TECHNIK_SONSTIGES

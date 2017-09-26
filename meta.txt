@@ -1,0 +1,29 @@
+﻿Metadaten zu Unterrichtsmaterialien, Version 1.01, Stand 19. September 2017
+
+
+#THEMA
+
+#BESCHREIBUNG
+
+#FACH
+
+#KLASSE_JGS
+
+#SCHULART
+GYM
+
+#BILDUNGSPLANBEZUG
+
+#ZEITUMFANG_MINUTEN
+
+#BETRIEBSSYSTEME
+iOS, Android, Windows, Browser
+
+#APPS
+
+#MATERIALIEN
+
+#TECHNIK
+Beamer, Audio, 1:N, 1:1, WLAN
+
+#TECHNIK_SONSTIGES
